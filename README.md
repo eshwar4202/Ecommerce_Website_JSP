@@ -1,1 +1,1 @@
-# Ecommerce website in JAVA Using Servlet, Java Server Pages, MySql
+# Ecommerce website in JAVA Using Servlet, Java Server Pages, MySQL
