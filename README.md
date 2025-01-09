@@ -12,24 +12,24 @@ Introduction:
           
 *Technologies Used*
                           
-                Frontend: HTML, CSS, JavaScript, Bootstrap
-                Backend: Java (Servlets, JSP), JDBC
-                Database: MySQL
-                Server: Apache Tomcat
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Backend: Java (Servlets, JSP), JDBC
+- Database: MySQL
+- Server: Apache Tomcat
 
 
 ***Setup Instructions***
            
-           1. Clone the repo:
-            git clone https://github.com/eshwar4202/Ecommerce_Website_JSP.git
+1. Clone the repo:
+           git clone https://github.com/eshwar4202/Ecommerce_Website_JSP.git
       
-           2.Create a ecommerce database and run the SQL script in the database/ folder.
+2.Create a ecommerce database and run the SQL script in the database/ folder.
    
-           3.Configure database in dbconfig.properties.
+3.Configure database in dbconfig.properties.
    
-           4.Deploy the project on Apache Tomcat.
+4.Deploy the project on Apache Tomcat.
    
-           5.Access the site at http://localhost:8080/E-Commerce-Website.
+5.Access the site at http://localhost:8080/E-Commerce-Website.
 
 *Usage*
 Customers: Browse products, add to cart, place orders.
